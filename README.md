@@ -1,2 +1,5 @@
-# FolderStructureToJSON
-Converts the tree-structure of computer folders (and its contents) to a JSON file.
+# Folder Structure to JSON
+
+### Overview
+Folder Structure to JSON is a python script that runs a recursive algorithm to convert a folder and its contents, including additional details about them, to a JSON format. 
+
